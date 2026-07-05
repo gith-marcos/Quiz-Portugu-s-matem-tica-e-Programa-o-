@@ -1,4 +1,4 @@
-# Quiz-Portugu-s-matem-tica-e-Programa-o-
+# Quiz-Português-matemática-e-Programação
 Pequeno quiz de perguntas e respostas com tabpage de resultados e Gestão de Utilizadores
 
 PÁGINA LOGIN
